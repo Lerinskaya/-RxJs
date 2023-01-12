@@ -1,2 +1,2 @@
-# -RxJs
+# Рисовалка-RxJs
 RxJs + Canvas
